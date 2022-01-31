@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GabrielleForchee
 - 👀 I’m interested in data analytics and learning the ins and outs of databases
-- 🌱 I’m currently exploring Python
+- 🌱 I’m currently exploring SQL and Tableau 
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me; gabrielleforchee@gmail.com
 
